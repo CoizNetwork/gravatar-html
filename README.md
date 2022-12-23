@@ -1,5 +1,5 @@
 # Gravatar-HTML
 HTML Element to Grab Gravatar avatars.
-Import by doing ~~~html
+Import by doing ```
 <script src="https://cdn.jsdelivr.net/gh/CoizNetwork/gravatar-html@main/gravatar-html.min.js"></script>
-~~~
+```
