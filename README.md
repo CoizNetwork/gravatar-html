@@ -5,4 +5,4 @@ Import by doing `<script src="https://cdn.jsdelivr.net/gh/CoizNetwork/gravatar-h
 # Usage
 `<gr-avatar email="MyGravatarEmail@gmail.com"></gr-avatar>`
 
-View an Example HTML Page [here](https://github.dev/CoizNetwork/gravatar-html/blob/main/example.html)
+View an Example HTML Page [here](https://github.dev/interactcode/gravatar-html/blob/main/example.html)
