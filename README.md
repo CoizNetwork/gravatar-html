@@ -1,8 +1,3 @@
 # Gravatar-HTML
-HTML Element to Grab Gravatar avatars.
-Import by doing `<script src="https://cdn.jsdelivr.net/gh/CoizNetwork/gravatar-html@main/gravatar-html.min.js"></script>`
-
-# Usage
-`<gr-avatar email="MyGravatarEmail@gmail.com"></gr-avatar>`
-
-View an Example HTML Page [here](https://github.dev/interactcode/gravatar-html/blob/main/example.html)
+This library give you an HTML Element to display Gravatar avatars.
+You can import this library by placing an script tag pointing the src to "`https://cdn.jsdelivr.net/gh/CoizNetwork/gravatar-html@main/gravatar-html.min.js`".
